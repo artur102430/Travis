@@ -4,7 +4,7 @@ package HelloArtur.HelloArtur;
  * Hello world!
  *
  */
-public class App 
+public class HelloArtur 
 {
     public static void main( String[] args )
     {
